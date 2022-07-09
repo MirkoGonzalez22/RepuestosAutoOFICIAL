@@ -1,0 +1,27 @@
+body{
+    background-image: url("{%static 'core/Imagenes/Pagar.jpg'%}");
+    block-size: cover;
+    background-repeat: no-repeat;
+     
+}
+
+
+p {
+    color: white;
+    font-size: xx-large;
+    align-items: center;
+    text-shadow: 1 1 1 blue;
+    top: 50%;
+    height: 50%;
+}
+
+div{
+    color: white;
+}
+
+thead{
+    color: white;
+}
+tfoot{
+    color: white;
+}
